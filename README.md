@@ -1,2 +1,2 @@
 # FEUP-BDAD
-Repository for Database classes.
+ A repository to host BDAD projects. 
